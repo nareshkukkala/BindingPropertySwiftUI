@@ -2,7 +2,7 @@
 //  ColorSelectorView.swift
 //  UnderstandingState
 //
-//  Created by Mohammad Azam on 12/1/21.
+//  Created by naresh kukkala on 28/04/22.
 //
 
 import SwiftUI
